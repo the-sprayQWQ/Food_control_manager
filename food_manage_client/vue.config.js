@@ -6,7 +6,7 @@ module.exports = {
   //     proxy: {
   //         "/chen": {
   //           // 到时候localhost会
-  //           target: "http://api.seaandman.top",
+  //           target:"",
   //           changeOrigin: true, // 是否开启跨域  是否更改源路径
   //           pathRewrite: {
   //             '^/chen': '' // /api/ / 凡是/api开头的地址都可以跨域
